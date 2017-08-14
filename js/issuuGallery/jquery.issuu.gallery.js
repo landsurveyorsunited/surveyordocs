@@ -1,6 +1,6 @@
 $.fn.IssuuGallery = function(options) {
 	var defaults = {
-		user: '',
+		user: 'landsurveyor',
 		size: 'small',
 		showDate: true,
 		showTitle: true,
